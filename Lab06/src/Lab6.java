@@ -156,7 +156,12 @@ public class Lab6 {
 	}
 		public static void print(double x){
 			System.out.println("x = " + x);
-			System.out.println("KUY");
+			System.out.println("x = " + x);
+			System.out.println("x = " + x);
+			System.out.println("x = " + x);
+			System.out.println("x = " + x);
+			System.out.println("x = " + x);
+			
 		}
 	
 }
